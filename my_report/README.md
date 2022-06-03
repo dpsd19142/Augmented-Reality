@@ -19,7 +19,10 @@
 Συνεπώς έκανα τα κατάλληλα adjustments στον κώδικα ώστε να δείχνει ανάλογα με το tag κάθε τι και όταν πρέπει (pattern-dpsd.patt, pattern-card-H.patt, pattern-card-O.patt).
 
 # 3rd Deliverable
-
+Για το index.html,δηλαδή το αρχείο με το αξιοθέατο της επιλογής μας, στο location based φάκελο, αρχικά επέλεξα το 3D model από το Sketchfab (bigben)
+Στη συνέχεια βρήκα πληροφορίες απο το wikipedia και στο πεδίο του text έβαλα το κείμενο που ήθελα
+Έπειτα έκανα τις απαραίτητες αλαγές στον κώδικα μέσα στο github έτσι ώστε να κλικάρω στο 3d μοντέλο και να εμφανίζει το κείμενο, να είναι εμφανίσημο το 3d μοντελο αλλά και να περιστρέφεται.
+Για το Syros.html βρήκα την εικόνα του θεάτρου Απόλλων, έβαλα ένα κείμενο με τον ίδιο τρόπο του δεύτερου παραδοτέου με το dpsd με το όνομα του θεάτρου Απόλλων τροποποιόντας τον κώδικα.
 # Sources
 https://aframe.io/aframe-school/#/
 https://www.npmjs.com/package/aframe-speech-command-component?fbclid=IwAR2EaFsleTCXjGZbewvdoDsJXCC4pUqbmX1gnxOxv0q7gEE2yC_wK3Gz0Wc
